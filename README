@@ -4,4 +4,5 @@ Explanation of PGN files:
   lichess4545-all-s01-24.pgn
     - A PGN someone sent me: presuably this is all games played in season 1 to 24
   modified.pgn
-    - Same PGN as above, with all lines containing '[Opening' removed -- couldn't be bothered to deal with some encoding problems I was hitting
+    - Same PGN as above, with all lines containing '[Opening' removed --
+      couldn't be bothered to deal with some encoding problems I was hitting
